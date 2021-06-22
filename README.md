@@ -1,7 +1,7 @@
 # はじめてのGitHub  
 
 itc-c21024 宮城安秀  
-<https://github.com/itc-c21024/Sample>  
+https://github.com/itc-c21024/Sample  
 
 ## ローカルリポジトリ
 * お好み焼きレシピ  
