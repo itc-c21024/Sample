@@ -5,8 +5,8 @@ itc-c21024 宮城安秀
 
 ## ローカルリポジトリ
 * お好み焼きレシピ  
-[okonomi.txt](https://github.com/itc-c21024/Sample/blob/master/Okonomiyaki.txt)  
+[okonomi.txt](https://github.com/itc-c21024/Sample/blob/master/okonomi.txt)  
 
 ## リモートリポジトリ  
-* [README.md]()を作ってみる  
+* [README.md](https://github.com/itc-c21024/Sample/blob/master/README.md)を作ってみる  
 * マークダウンを覚える
